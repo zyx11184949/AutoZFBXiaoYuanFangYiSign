@@ -1,0 +1,33 @@
+2021-11-05 17:35:39.623073
+历史定位签到模式
+单人签到模式
+当前IP：20.122.101.121,
+
+ 美国DXCTechnology
+
+系统时间：2021-11-05 17:35:45
+UTC时间：2021-11-05 17:35:39
+北京时间：2021-11-06 01:35:39
+北京时间与系统时间误差：7:59:53.984261
+2021-11-05 17:35:45.015817:20206374签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾政洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME曾政洋
+定位 116.02375，28.693261，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.03527352073322,"lat":28.69645496106596},"formatted_address":"江西省南昌市南昌县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.023754&lat=28.693262&sfby=1
+签到成功
+2021-11-05 17:36:01.300116:20206374签到结束
+曾政洋20206374签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2123013998101970944}
+2021-11-05 17:36:07.591719程序结束
+######################################################################
+
+
+
+
