@@ -26,3 +26,61 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2133020981219606528}
 
 
 
+2021-11-12 15:40:16.545995
+历史定位签到模式
+多人签到模式2034170246,2034170234,2034170231,2034210122
+当前IP：52.254.20.95,
+
+ 美国弗吉尼亚州博伊顿Microsoft数据中心
+
+系统时间：2021-11-12 15:40:22
+UTC时间：2021-11-12 15:40:16
+北京时间：2021-11-12 23:40:16
+北京时间与系统时间误差：7:59:53.325575
+2021-11-12 15:40:22.674505:2034170246签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张梦琦
+COOKIE OK
+已经签到
+2021-11-12 15:41:17.432743:2034170246签到结束
+2021-11-12 15:41:17.523016:2034170234签到开始
+NAME熊雨靓
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME熊雨靓
+COOKIE OK
+已经签到
+2021-11-12 15:41:48.404941:2034170234签到结束
+2021-11-12 15:41:48.407960:2034170231签到开始
+NAME夏若彤
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME夏若彤
+COOKIE OK
+开始签到
+NAME夏若彤
+定位 116.003004，28.671213，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.01453023527702,"lat":28.67400450244749},"formatted_address":"江西省南昌市南昌县创新大道","business":"昌东","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"创新大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.003013&lat=28.671217&sfby=1
+签到成功
+2021-11-12 15:42:11.668747:2034170231签到结束
+2021-11-12 15:42:11.696120:2034210122签到开始
+NAME刘艳
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME刘艳
+COOKIE OK
+已经签到
+2021-11-12 15:42:25.576151:2034210122签到结束
+4人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2133046464283983872}
+2021-11-12 15:42:28.574326程序结束
+######################################################################
+
+
+
+
