@@ -1,0 +1,33 @@
+2022-03-20 16:54:10.128493
+历史定位签到模式
+单人签到模式
+当前IP：40.83.38.86,
+
+ 美国Microsoft公司
+
+系统时间：2022-03-20 16:54:14
+UTC时间：2022-03-20 16:54:10
+北京时间：2022-03-21 00:54:10
+北京时间与系统时间误差：7:59:55.368130
+2022-03-20 16:54:14.631917:200629050229签到开始
+cookie文件存在
+cookie文件加载成功
+NAME郑永祥
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME郑永祥
+定位 116.000167，28.67205，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.0116979289834,"lat":28.674774537240837},"formatted_address":"江西省南昌市南昌县忠义路","business":"昌东,广阳路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"忠义路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.000176&lat=28.672046&sfby=1
+签到成功
+2022-03-20 16:54:54.298456:200629050229签到结束
+郑永祥200629050229签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2318661997883899904}
+2022-03-20 16:54:56.762619程序结束
+######################################################################
+
+
+
+
